@@ -32,7 +32,7 @@ public class Main {
 
 		VideoEvento v2 = new VideoEvento(nome_evento, data_evento, Sport.CALCIO);
 
-
+//ok
 
 		nome_evento = "Partita Napoli-Sampdoria";
 
